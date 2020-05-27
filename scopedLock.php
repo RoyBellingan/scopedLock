@@ -1,3 +1,4 @@
+<?php
 
 //this uses https://en.wikipedia.org/wiki/Semaphore_(programming)
 //it is necessary to install php7-sysvsem
